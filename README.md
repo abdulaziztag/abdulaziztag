@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://t.me/manopov" />][telegram]
+[][telegram]
 
 <br />
 
