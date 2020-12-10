@@ -3,7 +3,8 @@
 ## I'm a Student at IUT and Software Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🇬🇧 English level: Intermediate
+- 🗽 English level: Intermediate
+- 🦉 Duolingo score: 100/160
 - ⚡ Fun fact: I love to cook and travel ✈️
 
 ### Connect with me:
