@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://t.me/manopov" />][telegram]
+[<img align="left"  width="22px" src="https://t.me/manopov" />][telegram]
 
 <br />
 
