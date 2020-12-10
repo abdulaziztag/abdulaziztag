@@ -3,6 +3,7 @@
 ## I'm a Student at IUT and Software Developer!!
 
 - 🌱 I’m currently learning everything 🤣
+- 🇬🇧 English level: Intermediate
 - ⚡ Fun fact: I love to cook and travel ✈️
 
 ### Connect with me:
