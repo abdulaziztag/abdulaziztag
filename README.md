@@ -1,10 +1,11 @@
 ### Hi there, I'm Abdulaziz 👋
 
-## I'm a Student at IUT and Software Developer!!
+## I'm a 2nd year Student at IUT and Software Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🗽 English level: Intermediate
 - 🦉 Duolingo score: 100/160
+- GPA Score: 3.81
 - ⚡ Fun fact: I love to cook and travel ✈️
 
 ### Connect with me:
