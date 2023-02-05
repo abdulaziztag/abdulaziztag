@@ -1,6 +1,6 @@
 ### Hi there, I'm Abdulaziz 👋
 
-## I'm a 2nd year Student at IUT and Software Developer!!
+## I'm a 3rd year Student at IUT and Software Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🗽 English level: Intermediate
